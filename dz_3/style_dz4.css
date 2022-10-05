@@ -1,0 +1,58 @@
+/*dz4*/
+#colour
+{
+    padding: 30px;
+    width: 800px;
+    height: 150px;
+    background-color: rgb(50, 72, 104);
+}
+.ul1
+{
+    list-style-type: none;
+    margin-left: 20px;
+    float: left;
+    color:  rgb(226, 223, 223);
+}
+#blog
+{
+    margin-left: 170px;
+}
+#hr1
+{
+    margin-top: 20px;
+    border: none; 
+    background-color: rgb(226, 223, 223); 
+    color: rgb(226, 223, 223); 
+    height: 2px; 
+}
+footer
+{
+    text-align: center;
+    color: rgb(226, 223, 223);
+}
+.img1
+{
+    margin-top: 30px;
+    margin-left: 500px;
+    width: 40px;
+    height: 40px;
+}
+.div1
+{
+    text-align: right;
+}
+#im1
+{
+    background: url("img/dz4/fb_gray.png");
+    margin-top: 30px;
+    margin-left: 500px;
+    background-size: cover;
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+#im1:hover
+{
+    background: url("img/dz4/fb.png"); 
+    background-size: cover;
+}

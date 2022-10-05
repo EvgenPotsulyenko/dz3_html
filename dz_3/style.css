@@ -1,0 +1,16 @@
+/*dz1*/
+* {padding: 0; margin: 0; list-style: none;}
+.clearfix:after {content: ""; display: table; clear: both;}
+
+#foodListFloat li {display: block; width: 158px; float: left; margin: 20px; padding: 10px; text-align: center; border: 1px solid gray; border-radius: 8px;}
+#foodListFloat li:hover {border: 1px solid red}
+#foodListFloat li img {display: block; height: 128px; width: 128px; padding: 10px;}
+.footer{
+    border-top: 1px solid #ccc;
+    clear: both;
+    text-align: center;
+}
+/*dz2*/
+#MenuList li {display: block; width: 200px; background-color: rgb(97, 89, 89);}
+#MenuList li:hover {background-color: rgb(59, 57, 57);}
+#MenuList li img {display: block; height: 50px; width: 50px;}
